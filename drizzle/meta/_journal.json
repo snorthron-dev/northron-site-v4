@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1771908510792,
+      "tag": "0000_typical_tarot",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1771908583044,
+      "tag": "0001_elite_the_anarchist",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1771908930244,
+      "tag": "0002_oval_sprite",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1771911387364,
+      "tag": "0003_numerous_riptide",
+      "breakpoints": true
+    }
+  ]
+}
